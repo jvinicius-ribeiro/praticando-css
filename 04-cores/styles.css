@@ -1,0 +1,19 @@
+/* Utilizando variações da cor vermelha como exemplo */
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+}
+
+h3 {
+    color: rgba(255, 0, 0, 0.75);
+}
+/* no rgba, o A representa a opacidade, que vai de 0 à 1*/
+
+p {
+    color: #ff0000;
+}
+/* na escala hexadecimal, os valores vão de F (valor máximo) para 0 (valor mínimo);
