@@ -1,0 +1,20 @@
+p {
+  margin: 30px;
+}
+/* todos os lados terão o mesmo margin  */
+
+
+p {
+  margin: 30px 15px;
+}
+/* as laterais terão o mesmo lado entre si, assim como top e bottom terão a mesma medida entre si
+ ou seja =>    left === right e top === bottom */
+
+
+p {
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 90px;
+  margin-left: 12px;
+}
+/* quando cada lado vai possuir uma dimensão diferente de outro, podemos usar dessa forma */
