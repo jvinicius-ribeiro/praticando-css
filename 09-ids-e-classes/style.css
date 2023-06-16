@@ -1,0 +1,18 @@
+#main-title {
+  background-color: gainsboro;
+}
+
+.descricao {
+  background-color: orange;
+  border-left: 6px solid black;
+  padding: 20px;
+}
+
+.preco {
+  background-color: orange;
+  display: inline;
+}
+
+.promocao {
+  background-color: aqua;
+}
