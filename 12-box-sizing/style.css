@@ -1,0 +1,15 @@
+div {
+    width:100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid black;
+}
+
+.com-border-box {
+    background-color: orange;
+    box-sizing: border-box;
+}
+
+.sem-border-box {
+    background-color: red;
+}

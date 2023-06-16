@@ -1,0 +1,23 @@
+html {
+    background-color: gainsboro;
+    font-size: 24px;
+}
+
+body {
+    background-color: lightsalmon;
+    width: 50%;
+}
+
+.pai {
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 1.5rem;
+}
+
+.filho {
+    background-color: antiquewhite;
+    font-size: 0.75em;
+}
+
+/* rem leva em consideração o root, ou seja, o html */
+/* em leva em consideração o pai daquele elemento e aplica baseado naquele valor de .pai*/
